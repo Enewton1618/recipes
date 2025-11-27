@@ -4,5 +4,5 @@
 - potato £1
 - bay leaf
 # Instructions
-- put the peas in a pot
-- add chopped potatoes
+- shell peas
+
